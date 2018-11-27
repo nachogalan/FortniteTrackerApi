@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FortniteTrackerApp</string>
+    <string name="buscar">Epic Name</string>
+    <string-array name="spinner">
+    <item>pc</item>
+    <item>ps4</item>
+    <item>xb1</item>
+</string-array>
+</resources>
