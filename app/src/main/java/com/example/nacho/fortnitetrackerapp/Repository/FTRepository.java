@@ -2,10 +2,8 @@ package com.example.nacho.fortnitetrackerapp.Repository;
 
 import com.example.nacho.fortnitetrackerapp.DTO.Player;
 import com.example.nacho.fortnitetrackerapp.Services.FortniteTrackerApiService;
-
-import io.reactivex.Flowable;
 import io.reactivex.Observable;
-import retrofit2.Call;
+
 
 public class FTRepository {
 

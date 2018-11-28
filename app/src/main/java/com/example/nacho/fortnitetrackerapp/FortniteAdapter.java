@@ -44,8 +44,9 @@ public class FortniteAdapter extends RecyclerView.Adapter<FortniteAdapter.Fortni
     @Override
     public int getItemCount() {
         return dataList.size();
-    }    public class FortniteViewHolder extends RecyclerView.ViewHolder {
+    }
 
+    public class FortniteViewHolder extends RecyclerView.ViewHolder {
 
 
         private TextView txtLabel, txtRank, txtDisplayValue;
